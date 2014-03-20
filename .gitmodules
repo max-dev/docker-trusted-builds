@@ -1,9 +1,12 @@
 [submodule "cassandra"]
 	path = cassandra
 	url = git@github.com:relateiq/docker-cassandra.git
+	branch = master
 [submodule "oracle-java7"]
 	path = oracle-java7
 	url = git@github.com:relateiq/docker-oracle-java7.git
+	branch = master
 [submodule "kafka"]
 	path = kafka
 	url = git@github.com:relateiq/docker-kafka.git
+	branch = master

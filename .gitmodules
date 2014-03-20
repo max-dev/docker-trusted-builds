@@ -10,3 +10,6 @@
 	path = kafka
 	url = git@github.com:relateiq/docker-kafka.git
 	branch = master
+[submodule "oracle-java8"]
+	path = oracle-java8
+	url = git@github.com:relateiq/docker-oracle-java8.git

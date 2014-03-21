@@ -13,3 +13,7 @@
 [submodule "oracle-java8"]
 	path = oracle-java8
 	url = git@github.com:relateiq/docker-oracle-java8.git
+[submodule "docker-npm-cache"]
+	path = docker-npm-cache
+	url = git@github.com:relateiq/docker-npm-cache.git
+	branch = master

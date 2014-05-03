@@ -17,3 +17,6 @@
 	path = docker-npm-cache
 	url = git@github.com:relateiq/docker-npm-cache.git
 	branch = master
+[submodule "foundationdb-sql"]
+	path = foundationdb-sql
+	url = git@github.com:relateiq/docker-foundationdb-sql.git

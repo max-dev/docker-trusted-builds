@@ -20,3 +20,7 @@
 [submodule "foundationdb-sql"]
 	path = foundationdb-sql
 	url = git@github.com:relateiq/docker-foundationdb-sql.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = git@github.com:relateiq/docker-elasticsearch.git
+	branch = master
